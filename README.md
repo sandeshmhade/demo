@@ -10,4 +10,8 @@ this is simple readme file
 
 #extra line
 
+<<<<<<< HEAD
 i hope this won't couse much problem
+=======
+this is going to couse trouble
+>>>>>>> very-bad
