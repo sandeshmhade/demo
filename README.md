@@ -7,3 +7,5 @@ this is simple readme file
 #added more extra lines for git diff command
 
 #added to test  git diff, on a branch
+
+#extra line
